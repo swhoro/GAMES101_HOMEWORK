@@ -3,3 +3,4 @@ project(RayTracing)
 set(CMAKE_CXX_STANDARD 17)
 
 add_subdirectory(Assignment5)
+add_subdirectory(Assignment6)
